@@ -29,3 +29,6 @@
 2020-07-22 15:40:42,876 [26] FATAL LemonWay - XmlToJson : Il existe plusieurs éléments racine. Ligne 1, position 710.
 2020-07-22 15:52:52,059 [7] FATAL LemonWay - XmlToJson : Élément racine manquant.
 2020-07-22 15:59:42,232 [19] FATAL LemonWay - XmlToJson : Données non valides au niveau racine. Ligne 1, position 1.
+2020-07-22 17:04:46,918 [7] FATAL LemonWay - XmlToJson : Données non valides au niveau racine. Ligne 1, position 1.
+2020-07-22 17:05:01,892 [7] FATAL LemonWay - XmlToJson : La balise de début 'foo' sur la ligne 1 à la position 2 ne correspond pas à la balise de fin de 'bar'. Ligne 1, position 13.
+2020-07-22 17:05:01,973 [8] FATAL LemonWay - XmlToJson : Élément racine manquant.

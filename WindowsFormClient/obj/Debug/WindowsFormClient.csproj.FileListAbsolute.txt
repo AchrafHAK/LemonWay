@@ -12,3 +12,17 @@ E:\Tools_Achraf\LemonWay_TEST\LemonWay\WindowsFormClient\obj\Debug\WindowsFormCl
 E:\Tools_Achraf\LemonWay_TEST\LemonWay\WindowsFormClient\bin\Debug\Newtonsoft.Json.dll
 E:\Tools_Achraf\LemonWay_TEST\LemonWay\WindowsFormClient\bin\Debug\Newtonsoft.Json.xml
 E:\Tools_Achraf\LemonWay_TEST\LemonWay\WindowsFormClient\obj\Debug\WindowsFormClient.csproj.CopyComplete
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\bin\Debug\WindowsFormClient.exe.config
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\bin\Debug\WindowsFormClient.exe
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\bin\Debug\WindowsFormClient.pdb
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\bin\Debug\Newtonsoft.Json.dll
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\bin\Debug\Newtonsoft.Json.xml
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.csprojAssemblyReference.cache
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.BusyForm.resources
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.MainForm.resources
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.Properties.Resources.resources
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.csproj.GenerateResource.cache
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.csproj.CoreCompileInputs.cache
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.csproj.CopyComplete
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.exe
+E:\Tools_Achraf\LemonWay_WS\WindowsFormClient\obj\Debug\WindowsFormClient.pdb
