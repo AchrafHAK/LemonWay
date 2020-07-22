@@ -139,6 +139,7 @@ E:\Tools_Achraf\LemonWay_WS\WebServices\bin\System.Web.Webpages.Razor.xml
 E:\Tools_Achraf\LemonWay_WS\WebServices\bin\System.Web.Helpers.xml
 E:\Tools_Achraf\LemonWay_WS\WebServices\bin\System.Web.Mvc.xml
 E:\Tools_Achraf\LemonWay_WS\WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tools_Achraf\LemonWay_WS\WebServices\obj\Debug\WebServices.csprojAssemblyReference.cache
 E:\Tools_Achraf\LemonWay_WS\WebServices\obj\Debug\WebServices.csproj.CoreCompileInputs.cache
 E:\Tools_Achraf\LemonWay_WS\WebServices\obj\Debug\WebServices.csproj.CopyComplete
 E:\Tools_Achraf\LemonWay_WS\WebServices\obj\Debug\WebServices.dll
