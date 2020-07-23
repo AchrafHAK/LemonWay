@@ -30,20 +30,5 @@ namespace WindowsFormClient
             // Get XmlToJson result and display a loading dialog
             LoadingController.ShowLoading(this, ContextEnum.XmlToJson);
         }
-
-        private void Label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Label4_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
