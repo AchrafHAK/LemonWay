@@ -7401,11 +7401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tools_Achraf\\LemonWay_WS\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "E:\\Tools_Achraf\\LemonWay\\LemonWay\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "E:\\Tools_Achraf\\LemonWay_WS\\UnitTests\\UnitTests.csproj",
+      "projectPath": "E:\\Tools_Achraf\\LemonWay\\LemonWay\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\ahakim\\.nuget\\packages\\",
-      "outputPath": "E:\\Tools_Achraf\\LemonWay_WS\\UnitTests\\obj\\",
+      "outputPath": "E:\\Tools_Achraf\\LemonWay\\LemonWay\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -7428,8 +7428,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\Tools_Achraf\\LemonWay_WS\\WebServices\\WebServices.csproj": {
-              "projectPath": "E:\\Tools_Achraf\\LemonWay_WS\\WebServices\\WebServices.csproj"
+            "E:\\Tools_Achraf\\LemonWay\\LemonWay\\WebServices\\WebServices.csproj": {
+              "projectPath": "E:\\Tools_Achraf\\LemonWay\\LemonWay\\WebServices\\WebServices.csproj"
             }
           }
         }

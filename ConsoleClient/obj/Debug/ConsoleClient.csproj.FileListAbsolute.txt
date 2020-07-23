@@ -18,3 +18,13 @@ E:\Tools_Achraf\LemonWay_WS\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCom
 E:\Tools_Achraf\LemonWay_WS\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
 E:\Tools_Achraf\LemonWay_WS\ConsoleClient\obj\Debug\ConsoleClient.exe
 E:\Tools_Achraf\LemonWay_WS\ConsoleClient\obj\Debug\ConsoleClient.pdb
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\bin\Debug\ConsoleClient.exe
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\bin\Debug\ConsoleClient.pdb
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\bin\Debug\log4net.dll
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\bin\Debug\log4net.xml
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\obj\Debug\ConsoleClient.exe
+E:\Tools_Achraf\LemonWay\LemonWay\ConsoleClient\obj\Debug\ConsoleClient.pdb
