@@ -63,4 +63,13 @@ Based on that definition we can proove the doubling method to get the used formu
 
 
 ## Important !
-To test the solution, please make sure to run the WebServices project before running the console or the WinForm clients.
+
+Please clone the project :
+
+```
+git clone https://github.com/AchrafHAK/LemonWay.git
+```
+
+Then open the **LemonWay.sln** solution
+
+To test the solution, please make sure to run the **WebServices** project before running the **console** or the **WinForm** clients.
