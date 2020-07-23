@@ -4,7 +4,7 @@
 ## 1) Poker planning 
 
 -  Developer = Achraf HAKIM 
--  Total Hours = 9h
+-  Total Hours = 11 hours
     -  Monday, July 20th 2020 &rarr; 17h-19h
     -  Tuesday, July 21st 2020 &rarr; 17h-23h
     -  Wednesday, July 22nd 2020 &rarr; 17h-18h
