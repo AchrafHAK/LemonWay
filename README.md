@@ -8,7 +8,7 @@
     -  Monday, July 20th 2020 &rarr; 17h-19h
     -  Tuesday, July 21st 2020 &rarr; 17h-23h
     -  Wednesday, July 22nd 2020 &rarr; 17h-18h
-    -  Thursday, July 23rd 2020 &rarr; 18h-20h
+    -  Thursday, July 23rd 2020 &rarr; 08h-10h
 
 ## 2) Projects details & used Environments
 
